@@ -1,0 +1,709 @@
+{
+  "all_cards": [
+    {
+      "name": "Caravan",
+      "type": "card-duration",
+      "starting_number": 10
+    },
+    {
+      "name": "Ghost Ship",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Great Hall",
+      "type": "card-victory-action",
+      "starting_number": 8
+    },
+    {
+      "name": "Navigator",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Nobles",
+      "type": "card-victory-action",
+      "starting_number": 8
+    },
+    {
+      "name": "Pawn",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Remake",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Stash",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Upgrade",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Village",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Bishop",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Black Market",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Expand",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Haven",
+      "type": "card-duration",
+      "starting_number": 10
+    },
+    {
+      "name": "Horn of Plenty",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Minion",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Moneylender",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Peddler",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Trading Post",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Hamlet",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Laboratory",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Merchant Ship",
+      "type": "card-duration",
+      "starting_number": 10
+    },
+    {
+      "name": "Militia",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Mining Village",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Moat",
+      "type": "card-reaction",
+      "starting_number": 10
+    },
+    {
+      "name": "Native Village",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Quarry",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Scout",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Woodcutter",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Festival",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Grand Market",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Lookout",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Mint",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Shanty Town",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Throne Room",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Warehouse",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Colony",
+      "type": "card-victory",
+      "starting_number": 8
+    },
+    {
+      "name": "Golem",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Platinum",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Potion",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Rabble",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Royal Seal",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Sea Hag",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Smugglers",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Treasury",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Watchtower",
+      "type": "card-reaction",
+      "starting_number": 10
+    },
+    {
+      "name": "Witch",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Adventurer",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Cutpurse",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Masquerade",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Tactician",
+      "type": "card-duration",
+      "starting_number": 10
+    },
+    {
+      "name": "Tournament",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Tribute",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "University",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Chancellor",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Familiar",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Farming Village",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Harvest",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Mine",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Mountebank",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Wishing Well",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Ambassador",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Conspirator",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Library",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Monument",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Remodel",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Treasure Map",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Walled Village",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Hunting Party",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Loan",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Saboteur",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Swindler",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Workshop",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Contraband",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Island",
+      "type": "card-victory-action",
+      "starting_number": 8
+    },
+    {
+      "name": "Philosopher's Stone",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Alchemist",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Pearl Diver",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Scrying Pool",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Bridge",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Salvager",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Secret Chamber",
+      "type": "card-reaction",
+      "starting_number": 10
+    },
+    {
+      "name": "Venture",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "City",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Council Room",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "King's Court",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Bank",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Courtyard",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Fishing Village",
+      "type": "card-duration",
+      "starting_number": 10
+    },
+    {
+      "name": "Lighthouse",
+      "type": "card-duration",
+      "starting_number": 10
+    },
+    {
+      "name": "Trade Route",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Young Witch",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "\u2666",
+      "type": "bane-star",
+      "starting_number": 10
+    },
+    {
+      "name": "Cellar",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Coppersmith",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Herbalist",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Hoard",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Horse Traders",
+      "type": "card-reaction",
+      "starting_number": 10
+    },
+    {
+      "name": "Wharf",
+      "type": "card-duration",
+      "starting_number": 10
+    },
+    {
+      "name": "Fairgrounds",
+      "type": "card-victory",
+      "starting_number": 8
+    },
+    {
+      "name": "Ironworks",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Worker's Village",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Goons",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Market",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Steward",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Outpost",
+      "type": "card-duration",
+      "starting_number": 10
+    },
+    {
+      "name": "Torturer",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Bureaucrat",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Feast",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Spy",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Smithy",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Bazaar",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Fortune Teller",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Jester",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Baron",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Talisman",
+      "type": "card-treasure",
+      "starting_number": 10
+    },
+    {
+      "name": "Vault",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Chapel",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Counting House",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Apothecary",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Gardens",
+      "type": "card-victory",
+      "starting_number": 8
+    },
+    {
+      "name": "Explorer",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Harem",
+      "type": "card-victory-treasure",
+      "starting_number": 8
+    },
+    {
+      "name": "Embargo",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Envoy",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Possession",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Thief",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Duke",
+      "type": "card-victory",
+      "starting_number": 8
+    },
+    {
+      "name": "Transmute",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Vineyard",
+      "type": "card-victory",
+      "starting_number": 8
+    },
+    {
+      "name": "Forge",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Menagerie",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Apprentice",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Pirate Ship",
+      "type": "card-none",
+      "starting_number": 10
+    },
+    {
+      "name": "Copper",
+      "type": "card-treasure",
+      "starting_number": 46
+    },
+    {
+      "name": "Silver",
+      "type": "card-treasure",
+      "starting_number": 40
+    },
+    {
+      "name": "Gold",
+      "type": "card-treasure",
+      "starting_number": 30
+    },
+    {
+      "name": "Province",
+      "type": "card-victory",
+      "starting_number": 8
+    },
+    {
+      "name": "Duchy",
+      "type": "card-victory",
+      "starting_number": 8
+    },
+    {
+      "name": "Estate",
+      "type": "card-victory",
+      "starting_number": 8
+    },
+    {
+      "name": "Curse",
+      "type": "card-victory",
+      "starting_number": 10
+    }
+  ]
+}
